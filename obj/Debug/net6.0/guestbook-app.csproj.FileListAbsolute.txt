@@ -1,0 +1,15 @@
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\bin\Debug\net6.0\guestbook-app.exe
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\bin\Debug\net6.0\guestbook-app.deps.json
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\bin\Debug\net6.0\guestbook-app.runtimeconfig.json
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\bin\Debug\net6.0\guestbook-app.dll
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\bin\Debug\net6.0\guestbook-app.pdb
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.dll
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\refint\guestbook-app.dll
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.pdb
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\guestbook-app.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Desktop\MIUN\HT2022_DT071G_C#\moment3\guestbook-app\obj\Debug\net6.0\ref\guestbook-app.dll
